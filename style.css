@@ -2,12 +2,14 @@ p {
     color: white;
     font-size: 20px;
     text-align: center;
+    text-decoration: underline;
   }
 
   h1 {
     font-size: 55px;
-    color: aqua;
+    color: red;
     text-align: center;
+   
   }
 
   h2 {

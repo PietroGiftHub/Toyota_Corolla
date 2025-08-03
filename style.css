@@ -1,0 +1,28 @@
+p {
+    color: black;
+  }
+
+  h1 {
+    font-size: 55px;
+    color: aqua;
+  }
+
+   body {
+    background-color: black;
+   }
+
+   ul {
+    color: white;
+   }
+
+   ol{
+    color: white;
+   }
+
+   img {
+    width: 100%;
+    height: auto;
+    width: 1200px;
+   }
+  
+
